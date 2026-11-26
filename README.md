@@ -1,4 +1,6 @@
-# mock-tracker
+# ATLAS: Assessment Tracker for Learning And Scores
+
+Formerly `mock-tracker`.
 
 Track topic accuracy across mock tests, see which way each topic is moving, and find the weakest topics first.
 
