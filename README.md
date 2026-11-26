@@ -1,4 +1,4 @@
-# ATLAS: Assessment Tracker for Learning And Scores
+# QUETELET: named after Adolphe Quetelet, who described a population by its average and spread
 
 Formerly `mock-tracker`.
 
